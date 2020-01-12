@@ -55,6 +55,7 @@
                         Jesteś już naszym użytkownikiem? <a href="login.php">Zaloguj się!</a>
                     </p>
                 </form>
+                <?php echo '<a href="index.php">Wróć do strony głównej</a>'; ?>
             </div>
             <div class="clearing"></div>
         </div>

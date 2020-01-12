@@ -49,6 +49,7 @@
             <div class="clearing"></div>
             <div>
                 <label>Galeria ukazuje jedne z najpiękniejszych widoków w Tatrach Wysokich jak i niektóre elementy sprzętu górskiego.</label>
+                <?php echo '<a href="index.php">Wróć do strony głównej</a>'; ?>
             </div>
         </div>
     </section>

@@ -57,6 +57,7 @@ $result = mysqli_query($db, "SELECT * FROM repairs WHERE users_id=".$_SESSION['i
                 }
                 ?>
                 </table>
+                <?php echo '<a href="index.php">Wróć do strony głównej</a>'; ?>
             </div>
             <div></div>
             <div class="clearing"></div>

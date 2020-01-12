@@ -103,6 +103,7 @@ while($res = mysqli_fetch_array($result))
                         </tr>
                     </table>
                 </form>
+                <?php echo '<a href="index.php">Wróć do strony głównej</a>'; ?>
             </div>
             <div class="clearing"></div>
         </div>

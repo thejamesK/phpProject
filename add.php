@@ -96,6 +96,7 @@ if(!isset($_SESSION['username'])) {
                     }
                     ?>
                 </form>
+                <?php echo '<a href="index.php">Wróć do strony głównej</a>'; ?>
             </div>
             <div class="clearing"></div>
         </div>
