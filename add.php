@@ -91,7 +91,7 @@ if(!isset($_SESSION['username'])) {
 
                             //display success message
                             echo "<font color='green'>Złogszenie dodane";
-                            echo "<br/><a href='view.php'>Zobacz zgłoszenie.</a>";
+                            echo "<br/><a href='view.php'>Zobacz zgłoszenie.</a> <br />";
                         }
                     }
                     ?>
